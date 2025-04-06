@@ -9,4 +9,3 @@ function villager_names:set_name with storage eden:temp villager_names.plains
 tag @s add eden.name.set
 
 data remove storage eden:temp villager_names.plains
-

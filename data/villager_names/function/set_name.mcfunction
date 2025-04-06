@@ -1,1 +1,1 @@
-$data merge entity @s {CustomName:'{"bold":false,"color":"#$(color)","italic":false,"text":"$(first_name) $(last_name)"}'}
+$data modify entity @s CustomName set value {"bold":false,"color":"#$(color)","italic":false,"text":"$(first_name) $(last_name)"}
